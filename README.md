@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Saptak</h1>
-<h3 align="center">A passionate machine learning engineer, working to improve the energy efficiency of buildings through data science</h3>
+<h1 align="left">Hi 👋, I'm Saptak</h1>
+<h3 align="left">A passionate machine learning engineer, working to improve the energy efficiency of buildings through data science</h3>
 
 
 ## 🌐 Socials:
