@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saptak</h1>
-<h3 align="left">Passionate machine learning engineer, improving building performance & efficiency using data science</h3>
+<h3 align="left">A passionate machine learning engineer, improving building performance using data science</h3>
 
 
 ## 🌐 Socials:
